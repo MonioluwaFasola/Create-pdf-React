@@ -1,0 +1,8 @@
+@media print {
+    .NativeBrowserButton {
+          display: none;
+       }
+      .texts div {
+         break-after: always;
+      }
+   }
